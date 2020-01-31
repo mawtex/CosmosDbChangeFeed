@@ -27,6 +27,7 @@ namespace CosmosDbChangeFeedSpike
             t.Wait();
 
             Console.ReadKey();
+            Console.ReadKey();
         }
 
         static async Task Palle()
